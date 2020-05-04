@@ -1,0 +1,6 @@
+C:\Users\853747\source\repos\MiniProjects\Topic_3\getDoubleInRange\getDoubleInRange\getDoubleInRange\bin\Debug\getDoubleInRange.exe.config
+C:\Users\853747\source\repos\MiniProjects\Topic_3\getDoubleInRange\getDoubleInRange\getDoubleInRange\bin\Debug\getDoubleInRange.exe
+C:\Users\853747\source\repos\MiniProjects\Topic_3\getDoubleInRange\getDoubleInRange\getDoubleInRange\bin\Debug\getDoubleInRange.pdb
+C:\Users\853747\source\repos\MiniProjects\Topic_3\getDoubleInRange\getDoubleInRange\getDoubleInRange\obj\Debug\getDoubleInRange.csprojAssemblyReference.cache
+C:\Users\853747\source\repos\MiniProjects\Topic_3\getDoubleInRange\getDoubleInRange\getDoubleInRange\obj\Debug\getDoubleInRange.exe
+C:\Users\853747\source\repos\MiniProjects\Topic_3\getDoubleInRange\getDoubleInRange\getDoubleInRange\obj\Debug\getDoubleInRange.pdb
