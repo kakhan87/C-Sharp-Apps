@@ -1,0 +1,6 @@
+C:\Users\853747\source\repos\MiniProjects\Topic_5\Sum_Average_Min_Max\Sum_Average_Min_Max\Sum_Average_Min_Max\bin\Debug\Sum_Average_Min_Max.exe.config
+C:\Users\853747\source\repos\MiniProjects\Topic_5\Sum_Average_Min_Max\Sum_Average_Min_Max\Sum_Average_Min_Max\bin\Debug\Sum_Average_Min_Max.exe
+C:\Users\853747\source\repos\MiniProjects\Topic_5\Sum_Average_Min_Max\Sum_Average_Min_Max\Sum_Average_Min_Max\bin\Debug\Sum_Average_Min_Max.pdb
+C:\Users\853747\source\repos\MiniProjects\Topic_5\Sum_Average_Min_Max\Sum_Average_Min_Max\Sum_Average_Min_Max\obj\Debug\Sum_Average_Min_Max.csprojAssemblyReference.cache
+C:\Users\853747\source\repos\MiniProjects\Topic_5\Sum_Average_Min_Max\Sum_Average_Min_Max\Sum_Average_Min_Max\obj\Debug\Sum_Average_Min_Max.exe
+C:\Users\853747\source\repos\MiniProjects\Topic_5\Sum_Average_Min_Max\Sum_Average_Min_Max\Sum_Average_Min_Max\obj\Debug\Sum_Average_Min_Max.pdb
