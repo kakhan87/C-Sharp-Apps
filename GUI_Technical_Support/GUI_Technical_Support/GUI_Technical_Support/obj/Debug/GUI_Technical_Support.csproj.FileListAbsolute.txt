@@ -1,0 +1,9 @@
+C:\Users\853747\source\repos\MiniProjects\Topic_4\GUI_Technical_Support\GUI_Technical_Support\GUI_Technical_Support\bin\Debug\GUI_Technical_Support.exe.config
+C:\Users\853747\source\repos\MiniProjects\Topic_4\GUI_Technical_Support\GUI_Technical_Support\GUI_Technical_Support\bin\Debug\GUI_Technical_Support.exe
+C:\Users\853747\source\repos\MiniProjects\Topic_4\GUI_Technical_Support\GUI_Technical_Support\GUI_Technical_Support\bin\Debug\GUI_Technical_Support.pdb
+C:\Users\853747\source\repos\MiniProjects\Topic_4\GUI_Technical_Support\GUI_Technical_Support\GUI_Technical_Support\obj\Debug\GUI_Technical_Support.csprojAssemblyReference.cache
+C:\Users\853747\source\repos\MiniProjects\Topic_4\GUI_Technical_Support\GUI_Technical_Support\GUI_Technical_Support\obj\Debug\GUI_Technical_Support.Properties.Resources.resources
+C:\Users\853747\source\repos\MiniProjects\Topic_4\GUI_Technical_Support\GUI_Technical_Support\GUI_Technical_Support\obj\Debug\GUI_Technical_Support.csproj.GenerateResource.cache
+C:\Users\853747\source\repos\MiniProjects\Topic_4\GUI_Technical_Support\GUI_Technical_Support\GUI_Technical_Support\obj\Debug\GUI_Technical_Support.exe
+C:\Users\853747\source\repos\MiniProjects\Topic_4\GUI_Technical_Support\GUI_Technical_Support\GUI_Technical_Support\obj\Debug\GUI_Technical_Support.pdb
+C:\Users\853747\source\repos\MiniProjects\Topic_4\GUI_Technical_Support\GUI_Technical_Support\GUI_Technical_Support\obj\Debug\GUI_Technical_Support.mainForm.resources
