@@ -1,0 +1,6 @@
+C:\Users\853747\source\repos\MiniProjects\Topic_3\Temperature_Conversion\Temperature_Conversion\Temperature_Conversion\bin\Debug\Temperature_Conversion.exe.config
+C:\Users\853747\source\repos\MiniProjects\Topic_3\Temperature_Conversion\Temperature_Conversion\Temperature_Conversion\bin\Debug\Temperature_Conversion.exe
+C:\Users\853747\source\repos\MiniProjects\Topic_3\Temperature_Conversion\Temperature_Conversion\Temperature_Conversion\bin\Debug\Temperature_Conversion.pdb
+C:\Users\853747\source\repos\MiniProjects\Topic_3\Temperature_Conversion\Temperature_Conversion\Temperature_Conversion\obj\Debug\Temperature_Conversion.csprojAssemblyReference.cache
+C:\Users\853747\source\repos\MiniProjects\Topic_3\Temperature_Conversion\Temperature_Conversion\Temperature_Conversion\obj\Debug\Temperature_Conversion.exe
+C:\Users\853747\source\repos\MiniProjects\Topic_3\Temperature_Conversion\Temperature_Conversion\Temperature_Conversion\obj\Debug\Temperature_Conversion.pdb
