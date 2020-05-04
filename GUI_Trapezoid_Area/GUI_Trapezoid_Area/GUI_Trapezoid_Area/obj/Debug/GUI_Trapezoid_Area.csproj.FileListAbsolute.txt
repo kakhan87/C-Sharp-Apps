@@ -1,0 +1,9 @@
+C:\Users\853747\source\repos\MiniProjects\Topic_4\GUI_Trapezoid_Area\GUI_Trapezoid_Area\GUI_Trapezoid_Area\obj\Debug\GUI_Trapezoid_Area.csprojAssemblyReference.cache
+C:\Users\853747\source\repos\MiniProjects\Topic_4\GUI_Trapezoid_Area\GUI_Trapezoid_Area\GUI_Trapezoid_Area\obj\Debug\GUI_Trapezoid_Area.mainForm.resources
+C:\Users\853747\source\repos\MiniProjects\Topic_4\GUI_Trapezoid_Area\GUI_Trapezoid_Area\GUI_Trapezoid_Area\obj\Debug\GUI_Trapezoid_Area.Properties.Resources.resources
+C:\Users\853747\source\repos\MiniProjects\Topic_4\GUI_Trapezoid_Area\GUI_Trapezoid_Area\GUI_Trapezoid_Area\obj\Debug\GUI_Trapezoid_Area.csproj.GenerateResource.cache
+C:\Users\853747\source\repos\MiniProjects\Topic_4\GUI_Trapezoid_Area\GUI_Trapezoid_Area\GUI_Trapezoid_Area\bin\Debug\GUI_Trapezoid_Area.exe.config
+C:\Users\853747\source\repos\MiniProjects\Topic_4\GUI_Trapezoid_Area\GUI_Trapezoid_Area\GUI_Trapezoid_Area\bin\Debug\GUI_Trapezoid_Area.exe
+C:\Users\853747\source\repos\MiniProjects\Topic_4\GUI_Trapezoid_Area\GUI_Trapezoid_Area\GUI_Trapezoid_Area\bin\Debug\GUI_Trapezoid_Area.pdb
+C:\Users\853747\source\repos\MiniProjects\Topic_4\GUI_Trapezoid_Area\GUI_Trapezoid_Area\GUI_Trapezoid_Area\obj\Debug\GUI_Trapezoid_Area.exe
+C:\Users\853747\source\repos\MiniProjects\Topic_4\GUI_Trapezoid_Area\GUI_Trapezoid_Area\GUI_Trapezoid_Area\obj\Debug\GUI_Trapezoid_Area.pdb
